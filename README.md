@@ -11,7 +11,7 @@ tar -xf ngrok-v3-stable-linux-amd64.tgz
 rm -rf ngrok-v3-stable-linux-amd64.tgz
 ```
 ```
-./ngrok config add-authtoken 2fRE7RF60BZ3gkKpQB2TLP23nmM_31VnYfMv2m5Sa4pFjc5wG
+./ngrok config add-authtoken 2fz8d4WXRykwxMi4bdSpafbzKfC_7buhpHyQ1c15zDzyGYagT
 ```
 ```
 ./ngrok tcp 5900
