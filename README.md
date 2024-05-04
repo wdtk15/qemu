@@ -1,5 +1,5 @@
 ```
-wget -O garuda-dr460nized-linux-zen-240428.iso https://kumisystems.dl.sourceforge.net/project/garuda-linux/garuda/dr460nized/240428/garuda-dr460nized-linux-zen-240428.iso?viasf=1
+wget -O garuda-dr460nized-linux-zen-240428.iso "https://kumisystems.dl.sourceforge.net/project/garuda-linux/garuda/dr460nized/240428/garuda-dr460nized-linux-zen-240428.iso?viasf=1"
 ```
 ```
 wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
